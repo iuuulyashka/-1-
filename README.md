@@ -9,7 +9,7 @@
 
 # ⚙️ Как запустить проект
 Клонировать репозиторий:
-git clone https://github.com/iuuulyashka/nginx-lab.git
+git clone https://github.com/iuuulyashka/-1-.git
 cd nginx-lab
 
 # Запустить контейнеры:
